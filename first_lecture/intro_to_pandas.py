@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pd # type: ignore
 
 
 # dataframe is our main object. Columns are the stocks
