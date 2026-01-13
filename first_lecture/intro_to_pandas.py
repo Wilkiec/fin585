@@ -44,7 +44,7 @@ df['profit_margin'] = df['ebit'] / df['revenue'] # pandas works element by eleme
 print(df.round(2))
 
 # pandas also have if then else logic
-df['year'] > 2010  # returns a series of True/False values
+# df['year'] > 2010  # returns a series of True/False values
 df['gt_2010'] = df['year'] > 2010  # creates a new column with True/False values
 
 # can do data selection with these boolean values
