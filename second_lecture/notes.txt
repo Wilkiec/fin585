@@ -1,0 +1,25 @@
+calendar end in finance is last trading day of month
+
+analysts generate forecasts
+
+permno is a number that is assigned to each stock by the dataset providers
+
+when looking at returns we want at most 1 dividend timeframe. quaterly has 3 
+dividends while monthly has 1
+we can then compound up to quaterly. Largest data period is a month typically.
+
+dividend is measured per share
+everything is measured in a per share number
+
+smallest is a nanosecond (smallest data period possible with financial data)
+
+portfolio should either add up to 1 or 0 (can happen with shorting)
+(called 0 cost portfolio)
+
+
+portfolio is very general and can map into any trade strategy you can imagine.
+
+finding mispricing is the economical holy grail 
+because you get return without risk
+
+tickers can be reused so we group by permno
