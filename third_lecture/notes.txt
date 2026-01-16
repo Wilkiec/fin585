@@ -1,0 +1,73 @@
+efficient market = prices fully reflect all available information
+
+fundemental value determined by three things:
+1: expected profits/cash flow of asset
+
+2: time value of money. Investors prefer cash sooner than later. 
+Discount for putting off money til later. determined by everyone in market.
+creates risk free interest rates. if people had no preference of consumption today vs 1 year from now, 
+interest rates would be zero. 
+
+3: risk. general uncertainty. discount for higher risk
+
+
+1: price = fundemental value in an efficient market
+2: (no free lunch)
+
+in an efficient market, the more risk, the more reward
+
+efficient market hypothesis (EMH):
+if (1) violated, arbitrageurs could make money ->
+so (2) is also violated. Therefore voilations (1) get fixed quickly
+
+a big part of quanititative and academic finance is what degree this idea is true.
+
+
+why do we care?
+efficient markets protect less informed investors.
+important implications for investment strategys
+accurate signals for capital allocation if efficient.
+
+evaluating market efficiency is very difficult because we dont know
+a lot of what is given.
+
+a model of market equilibrium tells you something about how prices should be set.
+if market is efficient, then ...
+
+usually models make predictions about explicit returns
+(easier to work with using data).
+
+joint hypothesis problem -> always jointly testing the model of market 
+equilibrium and market efficiency
+
+we need to assume information gets into prices eventually
+
+testing market efficiency is hopeless
+but ...
+no arbitrage condition is the lowest level assumptions 
+for market efficiency
+
+any one model we shouldnt rely on. What if we do a set of good models
+if none work well, inefficiency likely best explanation
+
+
+can try to explicitly model an inefficiency channel.
+instead of modelling efficiency
+
+can we model the methods of inefficiency. if it matches,
+then we can conclude the market is inefficient.
+
+
+some models of market equilibrium:
+This was used in the 50's and 60's
+kinda silly
+it became possible to do these tests when computers started returning
+
+model: expected returns are positive. People wouldnt buy something,
+if they assume it wont go up. therefore we can model expected returns
+as positive.
+
+we will take a model and test it with the data. and then
+see if the model is bad or the market. 
+
+
