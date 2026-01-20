@@ -1,0 +1,96 @@
+Homework:
+
+short selling:
+The biggest lenders are the banks with a lot of stocks
+
+
+Profit = (Price Sold) - (Price Buy)
+
+only difference from a buy is the order of selling and buying
+
+You can usually avoid interest on short sell if you short and buy within same day.
+
+Loan fee: Interest that the lender is charging. When a hedgefund shorts a stock, The sold money is put in an account and earns interest.
+if interest rate on the account is 4%, one percent would go to lender and the rest would go to seller.
+That one percent is a loadn fee. It is not always one percent, it is dynamic and varies depending on shorting demand. 
+
+highest loan fees are on smaller stocks. 
+
+represents how many people want to short it.
+
+you can create a synthetic short with options. 
+
+basis point = 1/100 of a percent
+
+30 basis points = .3 percent
+very common finance language
+
+
+how does tstat work with the data we found in the homework?
+we create a hypothesis that the true mean is actually 0
+the returns we saw on avg for the return are not so negative
+that there isnt some other possible explanation 
+stock returns are too noisy so i cant tell if the shorts
+sellers have good information versus this happening by chance.
+
+
+spread portfolio: Long short Portfolio: LS Portfolio
+go long portfolio 0 and short portfolio 2
+
+weights sum up to 0. 
+
+
+Lecture:
+
+in an efficient market, all information pertaining 
+to pricing is included in the market pricing.
+
+Joint hypothesis Problem: if your hypothesis doesnt work out,
+its either your market model is wrong or your hypothesis is wrong.
+hard to figure out which one. 
+
+to counter this we use a whole bunch of models 
+so we can reasonably assume that atleast one of them works
+and if there is still inefficiancies, then 
+there must be inefficiancies in the market. 
+
+How do we test market efficiency give joint hypothesis thrm:
+this model was really important for about 40 years:
+random walk hypothesis
+
+it states that expected returns for a
+security are expected to be constant over time
+
+(price tommorow) = (yesterdays price) + Error
+
+RWH with Drift:
+(price tommorow) = (yesterdays price) + Error + (some drift)
+
+idea is that the only thing that drives prices,
+is something unexpected.
+
+(returns on a security) = (expected returns) + (unexpected returns)
+
+this equation proved the RWH model wrong since
+it works with statistical proof so returns must not be constant
+
+A lot of people at the time took away the idea that 
+markets must not be efficient, not that the model
+was bad. 
+
+People realized that this model implied that compensation
+for risk was constant which is not true.
+
+
+This model is still being used today:
+lower level model:
+
+The market model:
+I can always decompose returns on stocks in a regression
+can be expressed with having a linear relationship with a 
+portfolio
+
+its really a statistical model; not an economic model.
+
+alpha = intercept
+beta = slope
